@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "144a6c4af6a0fffdfe9a66296f68ae0b87a3ad1db05176dc52b36c20e709f18f"
+            "sha256": "5605c143011fb099917f43227800a91aababba670d4c178f8af4a0a6df366469"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -43,6 +43,14 @@
             ],
             "version": "==0.12.2"
         },
+        "flask-cors": {
+            "hashes": [
+                "sha256:55eb3864b4290f939ff19a2250fcb47d8c0f63d250c6780b922629299d011ec8",
+                "sha256:ac4b81b3d90f5f18714c995c807f94501df8c9bbc22ef4261c1cd850748c3850",
+                "sha256:62ebc5ad80dc21ca0ea9f57466c2c74e24a62274af890b391790c260eb7b754b"
+            ],
+            "version": "==3.0.3"
+        },
         "itsdangerous": {
             "hashes": [
                 "sha256:cbb3fcf8d3e33df861709ecaf89d9e6629cff0a217bc2848f1b41cd30d360519"
@@ -75,6 +83,13 @@
                 "sha256:d629fa5b458f4b184d74e2d91d2253d0a19e15ff279d506fa46b5630f424b840"
             ],
             "version": "==1.0.7"
+        },
+        "six": {
+            "hashes": [
+                "sha256:832dc0e10feb1aa2c68dcc57dbb658f1c7e65b9b61af69048abc87a2db00a0eb",
+                "sha256:70e8a77beed4562e7f14fe23a786b54f6296e34344c23bc42f07b15018ff98e9"
+            ],
+            "version": "==1.11.0"
         },
         "werkzeug": {
             "hashes": [

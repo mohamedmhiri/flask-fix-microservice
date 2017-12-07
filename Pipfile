@@ -10,6 +10,7 @@ name = "pypi"
 flask = "*"
 simplefix = "*"
 marshmallow = "*"
+flask-cors = "*"
 
 
 [dev-packages]
